@@ -1,0 +1,4 @@
+GATEWAY URL :
+
+http://localhost:3333/ms/api1/greet
+http://localhost:3333/ms/api2/welcome
